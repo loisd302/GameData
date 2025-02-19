@@ -1,0 +1,1 @@
+Vào thư mục "www", sau đó copy "save" và dán vào chỗ đó, nếu không có folder save thì hãy tạo nó
